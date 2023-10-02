@@ -9,7 +9,7 @@
     @version 1.0
     @param Nenhum
     @return Vazio (nil)
-        @see : ExecAuto       https://tdn.totvs.com/pages/releaseview.action?pageId=285654185
+        @see : ExecAuto          https://tdn.totvs.com/pages/releaseview.action?pageId=285654185
 		Função FCREATE           https://tdn.totvs.com/display/public/framework/FCreate
 		Função CGETFILE          https://tdn.totvs.com/display/tec/cGetFile
 		Função FTFUSE            https://tdn.totvs.com/display/tec/FT_FUse
